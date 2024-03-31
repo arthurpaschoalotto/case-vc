@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/fiesc/train/images
+val: /content/drive/MyDrive/fiesc/test/images
+
+nc: 1  # Número de classes que serão detectadas
+names: ['residence']
+

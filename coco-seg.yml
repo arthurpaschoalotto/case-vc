@@ -1,5 +1,0 @@
-train: /home/hub-de-ia/Documentos/FIESC/ex3/train/image/  # train images (relative to 'path') 4 images
-val: /home/hub-de-ia/Documentos/FIESC/ex3/test/image/ # val images (relative to 'path') 4 images
-nc: 1
-names: residence
-label_files: ['/home/hub-de-ia/Documentos/FIESC/ex3/train/label/', '/home/hub-de-ia/Documentos/FIESC/ex3/test/label/']  # Caminho para o arquivo de texto contendo as caixas delimitadoras  
